@@ -1,0 +1,23 @@
+[
+    {
+      "id": 1,
+      "title": "First Post Testing!",
+      "content": "Testing, 1, 2!",
+      "last_updated": "2023-04-05T19:43:15.258Z",
+      "originally_published": "2023-04-05T19:43:15.258Z"
+    },
+    {
+      "id": 2,
+      "title": "Second Post Testing!",
+      "content": "Testing, 3, 4!",
+      "last_updated": "2023-04-05T21:44:09.891Z",
+      "originally_published": "2023-04-05T21:44:09.891Z"
+    },
+    {
+      "id": 3,
+      "title": "Third Post Testing!",
+      "content": "Testing, 5, 6!",
+      "last_updated": "2023-04-10T14:18:54.101Z",
+      "originally_published": "2023-04-10T14:18:54.101Z"
+    }
+  ]
